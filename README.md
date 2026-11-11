@@ -15,3 +15,4 @@ A console-based application written in **C++** to manage student records (ID, Na
 1. Clone the repository:
    ```bash
    git clone [https://github.com/izmahaijaz/student-record-system.git](https://github.com/izmahaijaz/student-record-system.git)
+
